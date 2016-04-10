@@ -1,0 +1,2 @@
+Schistosoma.margrebowiei	S_margrebowiei_Zambia.fa
+Schistosoma.mansoni	ASM23792v2.fa
